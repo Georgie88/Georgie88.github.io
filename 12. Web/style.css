@@ -8,35 +8,35 @@ body{
 }
 
 .panel-body{
-    background-color: #f8f8f8;
+    background-color: #fee8ff;
 }
 
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    color: teal;
+    color: purple;
 }
 
 h3{
     font-family: 'Times New Roman', Times, serif;
-    color: teal;
+    color: purple;
     text-align: center;
     font-weight: bold;
 }
 
 .panel{
     padding: 10px;
-    background-color: #f8f8f8;
+    background-color: #fee8ff;
 }
 
 footer{
-    color: white;
-    background-color: rgb(110, 108, 108);
+    color: purple;
+    background-color:#fee8ff;
     padding: 15px;
     height: 60px;
     width: 100%;
     border-top: 10px;
-    border-top-color: teal;
+    border-top-color: purple;
     border-width: 10px;
     border-top-style: solid;
     position: absolute;
@@ -60,6 +60,6 @@ footer{
 .current{
     border: 5px;
     border-width: 5px;
-    border-color: teal;
+    border-color: purple;
     border-style: solid;
 }
